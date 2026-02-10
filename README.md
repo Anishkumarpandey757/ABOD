@@ -1,7 +1,6 @@
-# Abode: Intelligent PDF Analysis Platform
+ABOD Intelligent PDF Analysis Platform
 
-## Overview
-Abode is a comprehensive document intelligence platform that provides both **Round 1A: PDF Heading Extraction** and **Round 1B: Persona-Driven Document Intelligence**. The system is designed for offline, CPU-only operation with Docker deployment, supporting multilingual document processing and AI-powered content analysis.
+## Overview ABOD is a comprehensive document intelligence platform that provides both **Round 1A: PDF Heading Extraction** and **Round 1B: Persona-Driven Document Intelligence**. The system is designed for offline, CPU-only operation with Docker deployment, supporting multilingual document processing and AI-powered content analysis.
 
 ---
 
